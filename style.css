@@ -1,0 +1,66 @@
+.col{
+    height: 400px;
+}
+
+.body{
+    color: white!important;
+}
+.row{
+    height: 133.33333px;
+}
+#colmn-one{
+    background-color: #6bb56b;
+    border-radius:30px 0px 0px 30px;
+    border: 2px solid black;
+    display:grid;
+    justify-content: center;
+    align-content: center;
+}
+#id{
+    background-color: #299bff;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    display: grid;
+    justify-content: center;
+    align-content: end;
+}
+#colmn-bfrlast{
+    background-color: #fff7bd!important;
+    border-radius: 0px 30px 0px 0px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+#colmn-last{
+    border-radius: 0px 0px 30px 0px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.claassa{
+    text-align: end;
+}
+
+#id2{
+   background-color: #ffed69!important;
+   display: grid;
+   border-right: 2px solid black;
+    justify-content: center;
+    align-content: center;
+}
+#cont2{
+    display: inline-flex;
+}
+#ex2{
+    margin-top: 300px;
+}
+
+.card{
+    padding: 0px;
+    margin: 0 auto;
+}
+
